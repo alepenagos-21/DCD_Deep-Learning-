@@ -16,7 +16,7 @@ Entrenamiento
 
 Se realizó la predicción de la temperatura y se comparó contra los datos reales. El modelo logra capturar la tendencia general de los cambios de temperatura.
 
-![Gráfica de predicción](ruta/a/tu/grafica.png)
+![Gráfica de predicción](LSTM_Tem.png)
 ---
  Autora
 Alejandra Penagos
